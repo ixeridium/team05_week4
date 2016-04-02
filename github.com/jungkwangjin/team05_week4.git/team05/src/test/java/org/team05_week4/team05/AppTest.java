@@ -35,8 +35,4 @@ public class AppTest
     {
         assertTrue( true );
     }
-
-	public static void main(String[] args) {
-		C:\Users\dkfwl\git\team05_week4\PhoneBill\src\PhoneBIll
-	}
 }
